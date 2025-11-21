@@ -6,6 +6,7 @@ BitSpectreLabs is an open-source security initiative focused on building lightwe
 
 We create projects that help students, beginners, and security enthusiasts understand real-world infosec concepts without unnecessary complexity or vendor lock-in.
 
+[LinkedIn](https://www.linkedin.com/company/bitspectrelabs/)
 --- 
 
 ## **🌐 Mission**
